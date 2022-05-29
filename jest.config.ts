@@ -1,4 +1,5 @@
-module.exports = {
+/* eslint-disable */
+export default {
   displayName: 'citations-csl-consolidate',
   preset: '../../../jest.preset.js',
   globals: {
